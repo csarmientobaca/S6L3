@@ -16,6 +16,44 @@
   border: 1px solid rgba(20, 20, 20, 0.716);
 }
 
+.top {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  background: #000000;
+  color: #ffffff;
+}
+.top a {
+  text-decoration: none;
+  color: #000000;
+  transition: color 0.3s ease;
+}
+.top a:hover {
+  color: white;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+ul li {
+  padding: 10px 0;
+  font-size: 22px;
+}
+
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+}
+
 body {
   font-family: "Roboto", sans-serif;
 }

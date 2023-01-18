@@ -1,6 +1,8 @@
 @use "./font";
 @import "buttons";
 @import "variabili";
+@import"header";
+@import"./global/index";
 
 body {
     font-family: font.$globalFont;
