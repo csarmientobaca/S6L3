@@ -1,0 +1,33 @@
+.buttonHW {
+  font-weight: 300;
+  font-size: 20px;
+  color: #000000;
+  border: none;
+  background-color: #0066CC;
+  padding: 10px 30px;
+  box-shadow: rgb(0, 0, 0) 16px 16px 6px -8px;
+  border-radius: 21px;
+  transition: 1047ms;
+}
+.buttonHW:hover {
+  padding: 10px 50px;
+  background-color: #0a0a0a;
+  color: #ffffff;
+  border: 1px solid rgba(20, 20, 20, 0.716);
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+button {
+  margin: 10rem;
+}
+
+body {
+  background-color: black;
+}
+body h1 {
+  padding: 1rem;
+  color: white;
+}/*# sourceMappingURL=style.css.map */

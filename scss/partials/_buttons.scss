@@ -1,0 +1,20 @@
+.buttonHW {
+    font-weight: 300;
+    font-size: 20px;
+    color: #000000;
+    border: none;
+    background-color: #0066CC;
+    padding: 10px 30px;
+    box-shadow: rgb(0, 0, 0) 16px 16px 6px -8px;
+    border-radius: 21px;
+    transition: 1047ms;
+
+    &:hover {
+
+        padding: 10px 50px;
+        background-color: #0a0a0a;
+        color: #ffffff;
+        border: 1px solid rgba(20, 20, 20, 0.716);
+    }
+
+}

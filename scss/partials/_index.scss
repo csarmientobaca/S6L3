@@ -1,0 +1,11 @@
+@use "./font";
+@import "buttons";
+@import "variabili";
+
+body {
+    font-family: font.$globalFont;
+}
+
+button {
+    margin: $margin;
+}
